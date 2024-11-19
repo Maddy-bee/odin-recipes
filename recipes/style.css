@@ -1,6 +1,23 @@
 
 *{
     box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: darkorange;
+    font-weight: 600;
+    text-align: center;
+}
+img{
+    padding-left: 350px;
+}
+h2{
+    width: 750px;
+    color: darkcyan;
+    font-weight: bolder;
+    text-align: center;
+    border-color: darkcyan;
+    margin-left: 350px;
 }
 h3{
     color:white;
